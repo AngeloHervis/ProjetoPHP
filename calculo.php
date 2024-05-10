@@ -69,7 +69,7 @@
     </div>
     <footer>
         <div class="footer-container">
-            <p>&copy; Desenvolvido por A. Hervis.</p>
+            <p>&copy; Desenvolvido por Angelo Hervis.</p>
         </div>
     </footer>
 </body>
